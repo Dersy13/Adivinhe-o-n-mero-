@@ -1,0 +1,6 @@
+git clone https://github.com/seu-usuario/adivinhe-o-numero.git
+cd adivinhe-o-numero
+echo '/* Coloque o código aqui */' > adivinheONumero.c
+git add adivinheONumero.c
+git commit -m "Adicionar jogo Adivinhe o Número"
+git push origin main
